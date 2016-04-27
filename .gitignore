@@ -1,6 +1,7 @@
 .idea
 node_modules
 test/
+blog/
 .sync/*
 
 .me_configs.data
